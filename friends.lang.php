@@ -1,0 +1,29 @@
+<?php
+$lang['friends.add_list']	    = 'Arkadaş Listesi Ekleme Başarılı!';
+$lang['friends.del_list']	    = 'Arkadaş Listesi Silme Başarılı!';
+$lang['friends.del']		    = 'Arkadaş Silme Başarılı!';
+$lang['friends.action_add']	    = 'Arkadaş Ekleme İşlemi Başarılı!';
+$lang['friends.action_del']	    = 'Arkadaş Silme Başarılı!';
+$lang['friends.email_fname']	= 'E-Mailinizin İlk İsmini Giriniz!';
+$lang['friends.provide_email']	= 'En Az 1 E-Mail Yazın!';
+$lang['friends.contacts']       = 'Bağlantılarım';
+$lang['friends.overview']       = 'Gözat';
+$lang['friends.All']            = 'All';
+$lang['friends.Friends']        = 'Arkadaşlar';
+$lang['friends.Family']         = 'Aile';
+$lang['friends.sort']           = 'Sıralama';
+$lang['friends.sort_name']      = 'İsme Göre';
+$lang['friends.sort_date']      = 'Tarihe Göre';
+$lang['friends.invite_one']     = 'Henüz Arkadaşınızlarınızdan veya Ailenizden Kimseyi Davet Etmediniz!';
+$lang['friends.invite_two']     = 'Hemen Arkadaşlarınızla ve Ailenizle Videolarınızı Paylaşmaya Başlayın!';
+$lang['friends.delete_contact'] = 'BU Bağlantı Grubunu Silmek İstediğinizden Eminmisiniz?';
+$lang['friends.delete_list']    = 'Listeyi Sil';
+$lang['friends.view']           = 'İncele';
+$lang['friends.list']           = 'Listeler';
+$lang['friends.status']         = 'Durum';
+$lang['friends.list_new']       = 'Yeni Liste';
+$lang['friends.select']         = 'İşlem Seç';
+$lang['friends.action_add']     = 'Listeye Ekle';
+$lang['friends.action_delete']  = 'Listeden Sil';
+$lang['friends.delete_selected']    = 'Seçileni Sil';
+?>

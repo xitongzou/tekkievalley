@@ -1,0 +1,37 @@
+<?php
+$lang['index.watch']			= 'İZLE';
+$lang['index.watch_expl']		= 'TV izlemekten daha iyi. Nerde, Ne Zaman ve Nasıl İstersen İzleyebilirsin!';
+$lang['index.upload']			= 'VİDEO YÜKLE';
+$lang['index.upload_expl']		= 'Tüm Video Formatlarını Kolayca Yükle';
+$lang['index.share']			= 'Share';
+$lang['index.share_expl']		= 'İster Özel, İster Herkese Açık Videolarını Kolayca Paylaş';
+$lang['index.more_recently_viewed']	= 'En Son İzlenenler';
+$lang['index.my_stats']			= 'Detaylarım';
+$lang['index.my_videos']		= 'Videolarım';
+$lang['index.viewed']			= 'İzlendi';
+$lang['index.i_have']			= 'I have';
+$lang['index.friends']			= 'Arkadaşlarınız';
+$lang['index.times']			= 'times';
+$lang['index.i_have_uploaded']		= 'Yüklediklerim:';
+$lang['index.space_used']		= 'Kullandığım Alan';
+$lang['index.bandwidth_used']		= 'Kullandığım Trafik';
+$lang['index.i_have_watched']		= 'İzlediklerim:';
+$lang['index.videos']			= 'video';
+$lang['index.out_of']			= 'Toplam';
+$lang['index.you_have']			= 'Gelen';
+$lang['index.new_messages']		= 'Yeni Mesaj';
+$lang['index.friend_requests']		= 'Arkadaşlık Daveti';
+$lang['index.featured']			= 'Özel';
+$lang['index.top_rated']		= 'Ençok Oylanan';
+$lang['index.most_viewed']		= 'Ençok İzlenen';
+$lang['index.statistics']		= 'Detaylar';
+$lang['index.public_videos']		= 'Genel Videolar';
+$lang['index.private_videos']		= 'Özel Videolar';
+$lang['index.members']			= 'Üyeler';
+$lang['index.watched_videos']		= 'İzlenen Videolar';
+$lang['index.online_visitors']		= 'Online Ziyaretçiler';
+$lang['index.popular_tags']		= 'Populer Etiketler';
+$lang['index.last_users']		= 'Son Gelen 5 Üye';
+$lang['index.vote_here']		= 'Oy Ver';
+$lang['index.vote_status']		= 'Sonuçlara Bak';
+?>

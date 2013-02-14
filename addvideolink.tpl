@@ -1,0 +1,3 @@
+|<A href="{seourl rewrite="group/`$urlkey`" url="groups_home.php?urlkey=`$smarty.request.urlkey`"}">Group Home</A>
+|<A href="{seourl rewrite="group/add/video/`$urlkey`/`$gid`" url="add_video.php?urlkey=`$smarty.request.urlkey`&gid=`$smarty.request.gid`"}">My Videos</A>
+|<A href="{seourl rewrite="group/add/favour/`$urlkey`/`$gid`" url="add_favour.php?urlkey=`$smarty.request.urlkey`&gid=`$smarty.request.gid`"}">My Favorites</A>

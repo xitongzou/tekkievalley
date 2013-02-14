@@ -1,0 +1,10 @@
+1. Backup your entire site and mysql database.
+2. Remove all files and folders except video, flvideo, thumb, chimg, photo, player/adv and tmp folders.
+3. Upload the contents of the upload directory (only the contents not the folder itself).
+4. Upload upgrade/upgrade-4.0.9-to-4.1.php
+5. Edit include/config.local.php and set BASE_URL and database credentials.
+6. Make sure following folders are chmoded to 777: video, flvideo, tmp/*, chimg, thumb, photo and cache/templates_c
+7. Access upgrade-4.0.9-to-4.1.php from your browser (http://www.domain.com/upgrade-4.0.9-to-4.1.php).
+8. Delete upgrade-4.0.9-to-4.1.php from the server.
+9. Thats it :-)
+

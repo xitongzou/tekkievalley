@@ -1,0 +1,31 @@
+<?php
+$lang['uprofile.member_info']	= 'Üye Bilgileri';
+$lang['uprofile.profile']		= 'Profil';
+$lang['uprofile.latest_video']	= 'En Son Video';
+$lang['uprofile.last_login']	= 'Son Girişi';
+$lang['uprofile.signed_up']		= 'Katıldığı Tarih';
+$lang['uprofile.name']			= 'Adı';
+$lang['uprofile.age']			= 'Yaşı';
+$lang['uprofile.gender']		= 'Cinsiyeti';
+$lang['uprofile.relation']		= 'Medeni Hali';
+$lang['uprofile.about']			= 'Hakkında';
+$lang['uprofile.website']		= 'Website';
+$lang['uprofile.hometown']		= 'Yaşadığı Yer';
+$lang['uprofile.current_city']	= 'Yaşadığı Şehir';
+$lang['uprofile.country']		= 'Ülke';
+$lang['uprofile.occupation']	= 'Meslek';
+$lang['uprofile.companies']		= 'Şirket';
+$lang['uprofile.schools']		= 'Eğitim Bilgileri';
+$lang['uprofile.interests']		= 'İlgi Alanları ve Hobileri';
+$lang['uprofile.movies']		= 'Favori Filmleri/Gösterileri';
+$lang['uprofile.music']			= 'Favori Müzikleri';
+$lang['uprofile.books']			= 'Favori Kitapları';
+$lang['uprofile.current_zip']	= 'Posta Kodu';
+$lang['uprofile.to_add']		= 'Ekleyin';
+$lang['uprofile.as_friend']		= 'Arkadaş Olarak';
+$lang['uprofile.exists']		= 'Daha Fazla Üye Bulunamadı!';
+$lang['uprofile.subscribe_on']  = 'Bu Üyeye Başarıyla Abone Oldunuz!';
+$lang['uprofile.subscribe_off'] = 'Bu Üyenin Aboneliğinden Ayrıldınız!';
+$lang['uprofile.subscribe_login']   = 'Bu Üyeye Abone Olmak için Giriş Yapınız!';
+$lang['uprofile.subscribe_self']    = 'Kendinize Abone Olamazsınız!';
+?>

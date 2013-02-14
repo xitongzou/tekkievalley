@@ -1,0 +1,26 @@
+1. Edit /upload/cgi-bin/ubr_upload.pl in a text editor, and change the path to (where you will insall the script)/tmp/uploader/
+2. Edit /upload/include/config.local.php in a text editor and set $config['BASE_URL'] and the database credentials.
+3. Optional: Edit /upload/include/language.php to remove / add language files
+4. Upload the contents (only the contents, not the folder itself) of the /upload folder on your server, in BINARY mode
+5. Set write permissions (chmod 777) to the following folders:
+	/flvideo
+	/video
+	/thumb
+	/chimg
+	/photo
+	/tmp
+	/tmp/logs
+	/tmp/sessions
+	/tmp/thumbs
+	/tmp/uploader
+	/cache/templates_c
+6. Set execute permissions (chmod 755) to /cgi-bin and /cgi-bin/ubr_upload.pl
+7. Create database and database user. Import the database dump from /sql/clipshare.sql with phpmyadmin
+8. Access your ClipShare Admin Panel at http://www.yourdomain.com/siteadmin/
+	Default admin user / password: admin / admin
+	- Change the admin user / password !!
+	- Change the site name, email, meta keywords, description, etc
+	- Optional: change different settings
+	- Create channels
+	- Add your advertising
+	- You can check if all requirements and configurations are met on the "System Check" page

@@ -1,0 +1,15 @@
+*** BACKUP *** BACKUP *** BACKUP ***
+1. Delete following directories: ajax, templates, cgi-bin, include, siteadmin, sql.
+2. Create following directories and make sure to chmod the directories to 777: video, flvideo, thumb, chimg, photo, cache/templates_c
+3. Copy the contents of uploads/flvideo to flvideo/
+4. Copy the contents of uploads/video to video/
+5. Copy the contents of tmp/thumb to thumb/
+6. Copy the contents of tmp/chimg to chimg/
+7. Copy the contents of tmp/photo to photo/
+8. Delete the tmp directory
+9. Copy all files from the Clipshare 4.0 archive (all files in the upload directory) to your installation
+10. Make sure following files/directories are chmoded to 777: video, flvideo, chimg, photo, thumb, tmp/logs,
+tmp/sessions, tmp/uploader, tmp/thumbs, cache/templates_c
+11. Chmod 755 cgi-bin/ubr_upload.pl
+12. Make sure to reconfigure include/dbconfig.php and include/config.php
+13. DONE.

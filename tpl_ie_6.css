@@ -1,0 +1,225 @@
+a img {
+
+	border: none;
+
+}
+
+#containersearch{
+
+	margin: 0 0 10px 0;
+
+	position: relative;
+
+	display: block;
+
+	width:100%;
+
+ 	text-align:left;
+
+}
+
+#search {
+
+	width:496px;
+
+	text-align: right;	
+
+}
+
+#subcontent p.blue {
+
+	border: none;
+
+}
+
+.otherdesc {
+
+	width: 320px;
+
+	display: block;
+
+	float: left;
+
+	margin: 0 0 0 10px;
+
+}
+
+#paging{
+
+	padding-bottom:10px;
+
+}
+
+.signupstatement{
+
+	width:400px;
+
+	margin:0px 0px 0px 0px;
+
+}
+
+.listchannellarge{
+
+	/*border: 2px solid #000000;*/
+
+	padding-right:10px;
+
+}
+
+.friendlist {
+
+	width: 493px;
+
+}
+
+.myvideo {
+
+	width: 495px;
+
+}
+
+.maindescwithoutborder {
+
+	width: 300px;
+
+}
+
+
+
+#rightside {
+
+	margin: 0px;
+
+	margin-right: 0px;
+
+	padding: 0px;
+
+	width: 215px;
+
+	text-align: left;
+
+	float: right;	
+
+}
+
+ 
+
+#head p {
+
+	margin: 10px 20px;
+
+	padding: 0px;
+
+	float: right;
+
+} 
+
+
+
+.listchannel{
+
+	height:249px;
+
+}
+
+
+#tabmenucontainer li a. #featuretab{
+		background: transparent url(../images/tpl_tabs_btn.gif) no-repeat left top;
+
+        background-position: 0% 0px;
+        
+        line-height: 27px;
+
+}
+
+#rightside_video {
+        margin: 0px;
+
+        margin-right: -150px;
+
+        padding: 0px;
+
+        width: 215px;
+
+        text-align: left;
+
+        float: right;
+}
+
+
+#playmovie {
+
+	width: 60px;
+
+}
+
+
+
+.relatedvideodesc {
+
+	width: 90px;
+
+}
+
+#side_results{
+
+	width:195px;
+
+}
+
+.relatedvideolist {
+
+	margin: 0 0 10px 0;	
+
+}
+
+.relatedvideothumb {
+
+	width: 60px;
+
+}
+
+
+
+/*#recently a img.left, #recently a img.right {
+
+    margin: 35px -8px 0px 0px;
+
+    padding: 0px;
+
+    border: 1px solid #bbbfaf;
+
+    float: left;
+
+} */
+
+
+
+/*#recent1,#recent2,#recent3{
+
+    padding-left:27px;
+
+    width:403px;
+
+    float:left;
+
+}*/
+
+/*#recent1,#recent2,#recent3{
+
+	border:solid 2px #000066;
+
+}*/
+
+
+#videocomment-content, #myvideo-content, #myfriends-content, #groups-content {
+
+	background:transparent url("images/tpl_box_shading.png") repeat-x;
+
+	margin-top:2px;
+
+	padding: 0px;
+
+	height: 1%;
+
+}

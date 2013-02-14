@@ -1,0 +1,7 @@
+NOTE THAT THE MEMBER PASSWORDS SHOULD ALREADY BE CONVERTED TO MD5. IF THEY ARE NOT, USE THE MD5 PASSWORD CONVERSION SCRIPT FROM THE 2.6 DISTRIBUTION > READ_ME FOLDER
+
+1. BACKUP EVERYTHING! ALL YOUR SCRIPT FILES (except maybe /flvideo which is BIG) AND DATABASE
+2. Install the 4.0 version using the Installation instructions
+3. Copy /upgrade/upgrade2.6_to.4.0.php and /upgrade/utf8_update.php where the script is installed
+4. Load them in the browser
+5. Delete them from the server
